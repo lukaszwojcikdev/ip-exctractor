@@ -194,7 +194,7 @@ The tool was developed using:
 
 ## Music That Fueled Development
 The coding sessions were powered by:
-- **CYBERNOCTURE** - Synthwave & Electroclash with Future Bass Mix for Late-Nigh Coding // Splunk Sessions [https://lukaszwojcik.eu](https://www.youtube.com/watch?v=xm12zz95lb8&list=PLeSTc7e2DKcrUo5xzCJ_udrmdmoe6g8RO)]
+- **CYBERNOCTURE** -  [Synthwave & Electroclash with Future Bass Mix for Late-Nigh Coding](https://www.youtube.com/watch?v=xm12zz95lb8&list=PLeSTc7e2DKcrUo5xzCJ_udrmdmoe6g8RO)]
 
 ---
 
