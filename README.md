@@ -206,8 +206,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
 
-Please ensure your code follows PEP 8 guidelines and includes appropriate tests.
-
 ---
 
 ## 🧭 Comming Soon
