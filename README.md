@@ -53,7 +53,7 @@ This tool is designed for:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ludev/ip-extractor.git
+   git clone https://github.com/lukaszwojcikdev/ip-extractor.git
    cd ip-extractor
    ```
 
