@@ -210,6 +210,23 @@ Please ensure your code follows PEP 8 guidelines and includes appropriate tests.
 
 ---
 
+## 🧭 Comming Soon
+* Added unit tests: A separate test_ip_extractor.py file with tests for validation, extraction, and export functions.
+* IPv6 support: Extracts not only IPv4 addresses, but also IPv6 addresses (ipaddress.IPv6Address).
+* WHOIS integration: Checks IP owner information, registration dates, DNS servers, etc.
+* Automatic IP extraction from all PDF files in a folder.
+* Exports TXT, CSV, and JSON using a single --all flag.
+* Error handling with logging: log.txt with a full error traceback of the session errors.
+* Ensuring correct file saving on systems with various encodings (UTF-8, cp1250, etc.).
+
+
+---
+
+## ⚠️ Disclaimer
+By using this software, you agree to these terms. The software is provided as-is, and you use it at your own risk. The author does not accept any responsibility for damages or issues caused by the use of this software.
+
+---
+
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
