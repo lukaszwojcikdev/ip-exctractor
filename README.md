@@ -12,7 +12,7 @@
 
 **IP Extractor** is a command-line tool designed to extract unique IP addresses from PDF documents. This open-source, Python-based tool is ideal for professionals in security operations centers (SOCs), open-source intelligence (OSINT), and DevOps who need to analyze documents, logs, or reports for network-related information. The tool parses PDF files, identifies valid public IP addresses, and exports them to TXT, CSV, and JSON files for further analysis.
 
-## Table of Contents
+## 📑 Table of Contents
 - [Features](#features)
 - [Target Audience](#target-audience)
 - [Installation](#installation)
@@ -29,7 +29,7 @@
 
 ---
 
-## Features
+## 🚀 Features
 - **Extracts Public IPs**: Identifies and extracts only valid, public IP addresses (excludes private ranges like 10.0.0.0/8).
 - **PDF Processing**: Uses `PyPDF2` to parse text from PDF documents.
 - **User-Friendly CLI**: Intuitive command-line interface with colorful output powered by the `rich` library.
@@ -40,7 +40,7 @@
 
 ---
 
-## Target Audience
+## 🎯 Target Audience
 This tool is designed for:
 - **SOC Analysts**: To extract IPs from incident reports or threat intelligence PDFs.
 - **OSINT Researchers**: To analyze documents for network-related information.
@@ -49,7 +49,7 @@ This tool is designed for:
 
 ---
 
-## Installation
+## 💾 Installation
 
 1. **Clone the Repository**:
    ```bash
@@ -76,7 +76,7 @@ This tool is designed for:
 
 ---
 
-## Dependencies
+## 📦 Dependencies
 The tool relies on the following Python libraries:
 - **PyPDF2**: For reading and extracting text from PDF files.
 - **rich**: For enhanced terminal output with colors and progress bars.
@@ -91,13 +91,13 @@ pip install PyPDF2 rich
 
 ---
 
-## Usage
+## 🧑‍💻 Usage
 Run the tool using the following command structure:
 ```bash
 python ip_extractor.py [options]
 ```
 
-### Available Options
+### ⚙️ Available Options
 | Option              | Description                                    |
 |---------------------|------------------------------------------------|
 | `-e, --extract FILE`| Extract IPs from the specified PDF file        |
@@ -107,7 +107,7 @@ python ip_extractor.py [options]
 | `-v, --version`     | Show the tool's version                        |
 | `-h, --help`        | Display the help screen                        |
 
-### Example Commands
+### 📝 Example Commands
 - Extract IPs from a PDF:
   ```bash
   python ip_extractor.py -e document.pdf
@@ -161,7 +161,7 @@ The `sample_ips.txt` file might contain:
 
 ---
 
-## Demo
+## 🎬 Demo
 A short demo video showcasing the tool's functionality is available [here](https://lukk.eu/ip-extractor-demo.mp4). It demonstrates:
 1. Running the tool with a sample PDF.
 2. Displaying the help and info screens.
@@ -169,21 +169,21 @@ A short demo video showcasing the tool's functionality is available [here](https
 
 ---
 
-## Screenshots
+## 🖼️ Screenshots
 ### Help Screen
 ![Help Screen](screenshots/help_screen.png)
 
-### Extraction Process
+### 🔍 Extraction Process
 ![Extraction Process](screenshots/extraction_process.png)
 
-### Output File
+### 📁 Output File
 ![Output File](screenshots/output_file.png)
 
 *Note: Screenshots are placeholders. Actual screenshots can be found in the `screenshots/` directory of the repository.*
 
 ---
 
-## Development Environment
+## 🛠️ Development Environment
 The tool was developed using:
 - **IDE**: Notepad++
 - **Testing Environment**: Python 3.12+ on Windows 11
@@ -192,13 +192,13 @@ The tool was developed using:
 
 ---
 
-## Music That Fueled Development
+## 🎶 Music That Fueled Development
 The coding sessions were powered by:
-- **CYBERNOCTURE** -  [Synthwave & Electroclash with Future Bass Mix for Late-Nigh Coding](https://www.youtube.com/watch?v=xm12zz95lb8&list=PLeSTc7e2DKcrUo5xzCJ_udrmdmoe6g8RO)]
+- **CYBERNOCTURE** -  [Synthwave & Electroclash with Future Bass Mix for Late-Nigh Coding](https://www.youtube.com/watch?v=xm12zz95lb8&list=PLeSTc7e2DKcrUo5xzCJ_udrmdmoe6g8RO)
 
 ---
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
@@ -210,12 +210,12 @@ Please ensure your code follows PEP 8 guidelines and includes appropriate tests.
 
 ---
 
-## License
+## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Contact
+## 📬 Contact
 For questions or feedback:
 - **GitHub**: [https://github.com/lukaszwojcikdev/ip-extractor.git](https://github.com/lukaszwojcikdev/ip-extractor.git)
 - **LinkedIn**: [https://linkedin.com/h/lukasz-michal-wojcik](https://linkedin.com/h/lukasz-michal-wojcik)
