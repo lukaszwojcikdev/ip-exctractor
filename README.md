@@ -4,7 +4,7 @@
  _/ // ___/ / _/ \\ \\ / __/ __/ _ `/ __/ __/ _ \\/ __/
 /___/_/    /___//_\\_\\\\__/_/  \\_,_/\\__/\\__/\\___/_/
 ```
-# Export IP addresses to TXT, CSV and JSON files
+# Export IP addresses from PDF to TXT, CSV and JSON files
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
